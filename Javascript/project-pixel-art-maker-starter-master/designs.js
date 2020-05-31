@@ -16,6 +16,15 @@ function makeGrid(height,width) {
             style="border:2px solid black; height:25px; width: 25px"></td>';
         }
         html += "</tr>"
+    }
+    return html
+}
+// Select size input
+var size = document.querySelector('#sizePicker');
+
+size.querySelector('button').addEventListener('click', function() 
+{
+    var height = size.querySelector('#inputHeight').value;
     var width = size.querySelector('#inputWidth').value;
 
     var element = document.querySelector('table');
