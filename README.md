@@ -13,16 +13,16 @@ It begins! Get oriented, learn the basics of HTML, and write your first line of 
 ### Intro to CSS
 Add style to your HTML code with CSS (Cascading Style Sheets). Experiment with adjusting various style rules in CSS to make your website shine. Achieve the look and presentation you want for your own webpage.
 
-**Project 1: *Animal Trading Cards***
+**Project 1:** [***Animal Trading Cards***](https://github.com/beinghasnain16/Udacity-IPND/tree/master/CSS/animal-trading-cards-master)
 
 
 ### Intro to Python
 Explore fundamental programming concepts in Python like logic checks, data structures, and functions through interactive quizzes and practice on your own computer. Learn syntax, debugging techniques and basic problem-solving concepts.
 
-**Project 2: *Adventure Game***
+**Project 2:** [***Adventure Game***](https://github.com/beinghasnain16/Udacity-IPND/tree/master/Python)
 
 
 ### Intro to JavaScript
 Learn the fundamentals of web programming using JavaScript, the ubiquitous language for creating dynamic web applications.
 
-**Project 3: *Pixel Art Maker***
+**Project 3:** [***Pixel Art Maker***](https://github.com/beinghasnain16/Udacity-IPND/tree/master/Javascript/Pixel_Art_Maker)
