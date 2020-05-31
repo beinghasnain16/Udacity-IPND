@@ -26,3 +26,7 @@ Explore fundamental programming concepts in Python like logic checks, data struc
 Learn the fundamentals of web programming using JavaScript, the ubiquitous language for creating dynamic web applications.
 
 **Project 3:** [***Pixel Art Maker***](https://github.com/beinghasnain16/Udacity-IPND/tree/master/Javascript/Pixel_Art_Maker)
+
+## Certificate
+![Certificate](https://github.com/beinghasnain16/Udacity-IPND/blob/master/Certificate.png)
+[See Credentials](https://confirm.udacity.com/DCAQ7NQ7)
